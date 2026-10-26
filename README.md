@@ -1,2 +1,2 @@
 # TrentoAccessibile
-Progetto TrentoAccessibile per Ingegneria del Software
+Progetto TrentoAccessibile per il corso di Ingegneria del Software 
